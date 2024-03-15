@@ -1,0 +1,20 @@
+[2024-03-14 13:42:34,479][werkzeug][WARNING] -  * Debugger is active!
+[2024-03-14 13:42:34,479][werkzeug][INFO] -  * Debugger PIN: 101-589-398
+[2024-03-14 13:43:12,010][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "GET /schedule.html HTTP/1.1" 200 -
+[2024-03-14 13:43:12,045][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,048][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,056][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,057][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,057][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,057][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,057][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,057][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,059][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,070][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,085][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,089][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,099][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "GET /schedule.json HTTP/1.1" 200 -
+[2024-03-14 13:43:12,103][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/css/Lato-Regular.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,104][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 13:43:12,250][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "GET /static/favicon/favicon.ico HTTP/1.1" 200 -
+[2024-03-14 13:43:12,254][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:43:12] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -

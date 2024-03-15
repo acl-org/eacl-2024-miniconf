@@ -1,0 +1,64 @@
+[2024-03-14 15:44:24,352][werkzeug][INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7777
+ * Running on http://172.16.35.61:7777
+[2024-03-14 15:44:24,352][werkzeug][INFO] - [33mPress CTRL+C to quit[0m
+[2024-03-14 15:44:24,353][werkzeug][INFO] -  * Restarting with stat
+[2024-03-14 15:44:24,749][werkzeug][WARNING] -  * Debugger is active!
+[2024-03-14 15:44:24,749][werkzeug][INFO] -  * Debugger PIN: 101-589-398
+[2024-03-14 15:44:52,069][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "GET /schedule.html HTTP/1.1" 200 -
+[2024-03-14 15:44:52,106][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,107][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,107][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,109][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,110][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,111][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,111][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,112][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,113][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,113][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,127][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,127][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,151][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "GET /schedule.json HTTP/1.1" 200 -
+[2024-03-14 15:44:52,155][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/css/Lato-Regular.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,155][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 15:44:52,273][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "GET /static/favicon/favicon.ico HTTP/1.1" 200 -
+[2024-03-14 15:44:52,274][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:44:52] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,053][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "GET /workshop_CLPsych.html HTTP/1.1" 200 -
+[2024-03-14 15:46:29,066][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,067][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,068][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,069][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,069][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,070][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,070][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,071][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,071][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,095][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/js/time-extend.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,096][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,099][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,102][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,106][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/css/Lato-Regular.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:29,114][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:29] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:31,675][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:31] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,203][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "GET /tutorial_T3.html HTTP/1.1" 200 -
+[2024-03-14 15:46:52,227][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,229][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,230][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,231][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,232][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,233][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,234][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,245][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,257][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,265][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/js/time-extend.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,265][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/js/add-to-calendar.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,274][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,277][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,278][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,278][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[33mGET /static/images/acl2023/acl-logo.png HTTP/1.1[0m" 404 -
+[2024-03-14 15:46:52,292][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/css/Lato-Regular.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:52,292][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:52] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 15:46:53,368][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 15:46:53] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
+[2024-03-14 15:50:37,315][werkzeug][INFO] -  * Detected change in '/hits/fast/nlp/liuwi/PycharmProjects/eacl2024-miniconf/eacl_miniconf/load_site_data.py', reloading
+[2024-03-14 15:50:37,359][werkzeug][INFO] -  * Restarting with stat

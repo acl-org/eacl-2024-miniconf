@@ -1,0 +1,75 @@
+[2024-03-15 09:56:17,341][werkzeug][INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7777
+ * Running on http://172.16.35.61:7777
+[2024-03-15 09:56:17,341][werkzeug][INFO] - [33mPress CTRL+C to quit[0m
+[2024-03-15 09:56:17,343][werkzeug][INFO] -  * Restarting with stat
+[2024-03-15 09:56:17,742][werkzeug][WARNING] -  * Debugger is active!
+[2024-03-15 09:56:17,742][werkzeug][INFO] -  * Debugger PIN: 101-589-398
+[2024-03-15 09:56:22,883][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:22] "[32mGET / HTTP/1.1[0m" 302 -
+[2024-03-15 09:56:22,924][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:22] "GET /index.html HTTP/1.1" 200 -
+[2024-03-15 09:56:22,962][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:22] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:22,962][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:22] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:22,970][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:22] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:22,980][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:22] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:22,980][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:22] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:22,989][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:22] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:22,990][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:22,991][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:22] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:23,005][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:23] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:23,006][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:23] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:23,007][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:23] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:23,008][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:23] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:23,176][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:23] "GET /static/images/eacl2024/header.png HTTP/1.1" 200 -
+[2024-03-15 09:56:23,201][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:23] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:23,202][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:23] "[36mGET /static/css/Lato-Regular.ttf HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:23,823][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:23] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,168][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "GET /workshops.html HTTP/1.1" 200 -
+[2024-03-15 09:56:31,186][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,188][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,188][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,189][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,190][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,191][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,191][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,193][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,193][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,209][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,210][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,210][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,213][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/js/add-to-calendar.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,231][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/js/time-extend.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:31,299][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:31] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,701][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "GET /workshop_CALD-pseudo.html HTTP/1.1" 200 -
+[2024-03-15 09:56:32,718][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,719][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,720][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,720][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,721][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,722][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,723][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,723][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,724][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,740][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/js/time-extend.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,740][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,746][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:32,747][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:32] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-15 09:56:33,748][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 09:56:33] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,027][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[32mGET / HTTP/1.1[0m" 302 -
+[2024-03-15 10:04:24,031][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "GET /index.html HTTP/1.1" 200 -
+[2024-03-15 10:04:24,067][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,073][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,077][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,083][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,087][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,087][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,105][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,111][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,112][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,112][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,112][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:24,113][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:24] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:25,107][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:25] "[36mGET /static/images/eacl2024/header.png HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:25,129][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:25] "[36mGET /static/css/Lato-Regular.ttf HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:25,129][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:25] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2024-03-15 10:04:27,747][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 10:04:27] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -

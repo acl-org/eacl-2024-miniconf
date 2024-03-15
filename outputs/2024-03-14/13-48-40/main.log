@@ -1,0 +1,26 @@
+[2024-03-14 13:48:40,575][werkzeug][INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7777
+ * Running on http://172.16.35.61:7777
+[2024-03-14 13:48:40,575][werkzeug][INFO] - [33mPress CTRL+C to quit[0m
+[2024-03-14 13:48:40,576][werkzeug][INFO] -  * Restarting with stat
+[2024-03-14 13:48:40,970][werkzeug][WARNING] -  * Debugger is active!
+[2024-03-14 13:48:40,970][werkzeug][INFO] -  * Debugger PIN: 101-589-398
+[2024-03-14 13:48:44,892][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "GET /schedule.html HTTP/1.1" 200 -
+[2024-03-14 13:48:44,926][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,926][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,927][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,927][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,928][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,929][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,931][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,932][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,932][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,932][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,951][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,952][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,967][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "GET /schedule.json HTTP/1.1" 200 -
+[2024-03-14 13:48:44,969][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/css/Lato-Regular.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:44,970][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:44] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 13:48:45,072][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:45] "GET /static/favicon/favicon.ico HTTP/1.1" 200 -
+[2024-03-14 13:48:45,073][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 13:48:45] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -

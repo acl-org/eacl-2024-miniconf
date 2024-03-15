@@ -1,0 +1,377 @@
+{
+    "Coffee Break 1": {
+        "display_name": "Coffee Break 1",
+        "end_time": "2024-03-18T11:00:00",
+        "events": {
+            "coffee-break-1": {
+                "chairs": [],
+                "end_time": "2024-03-18T11:00:00",
+                "id": "coffee-break-1",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Coffee Break 1",
+                "start_time": "2024-03-18T10:30:00",
+                "track": "Coffee Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "coffee-break-1",
+        "name": "Coffee Break 1",
+        "plenary_events": {},
+        "start_time": "2024-03-18T10:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Lunch Break 1": {
+        "display_name": "Lunch Break 1",
+        "end_time": "2024-03-18T14:00:00",
+        "events": {
+            "lunch-break-1": {
+                "chairs": [],
+                "end_time": "2024-03-18T14:00:00",
+                "id": "lunch-break-1",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Lunch Break 1",
+                "start_time": "2024-03-18T12:30:00",
+                "track": "Lunch Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "lunch-break-1",
+        "name": "Lunch Break 1",
+        "plenary_events": {},
+        "start_time": "2024-03-18T12:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Coffee Break 2": {
+        "display_name": "Coffee Break 2",
+        "end_time": "2024-03-18T16:00:00",
+        "events": {
+            "coffee-break-2": {
+                "chairs": [],
+                "end_time": "2024-03-18T16:00:00",
+                "id": "coffee-break-2",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Coffee Break 2",
+                "start_time": "2024-03-18T15:30:00",
+                "track": "Coffee Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "coffee-break-2",
+        "name": "Coffee Break 2",
+        "plenary_events": {},
+        "start_time": "2024-03-18T15:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Coffee Break 3": {
+        "display_name": "Coffee Break 3",
+        "end_time": "2024-03-19T10:30:00",
+        "events": {
+            "coffee-break-3": {
+                "chairs": [],
+                "end_time": "2024-03-19T10:30:00",
+                "id": "coffee-break-3",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Coffee Break 3",
+                "start_time": "2024-03-19T10:00:00",
+                "track": "Coffee Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "coffee-break-3",
+        "name": "Coffee Break 3",
+        "plenary_events": {},
+        "start_time": "2024-03-19T10:00:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Lunch Break 2": {
+        "display_name": "Lunch Break 2",
+        "end_time": "2024-03-19T13:00:00",
+        "events": {
+            "lunch-break-2": {
+                "chairs": [],
+                "end_time": "2024-03-19T13:00:00",
+                "id": "lunch-break-2",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Lunch Break 2",
+                "start_time": "2024-03-19T12:00:00",
+                "track": "Lunch Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "lunch-break-2",
+        "name": "Lunch Break 2",
+        "plenary_events": {},
+        "start_time": "2024-03-19T12:00:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Coffee Break 4": {
+        "display_name": "Coffee Break 4",
+        "end_time": "2024-03-19T16:00:00",
+        "events": {
+            "coffee-break-4": {
+                "chairs": [],
+                "end_time": "2024-03-19T16:00:00",
+                "id": "coffee-break-4",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Coffee Break 4",
+                "start_time": "2024-03-19T15:30:00",
+                "track": "Coffee Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "coffee-break-4",
+        "name": "Coffee Break 4",
+        "plenary_events": {},
+        "start_time": "2024-03-19T15:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Coffee Break 5": {
+        "display_name": "Coffee Break 5",
+        "end_time": "2024-03-20T11:00:00",
+        "events": {
+            "coffee-break-5": {
+                "chairs": [],
+                "end_time": "2024-03-20T11:00:00",
+                "id": "coffee-break-5",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Coffee Break 5",
+                "start_time": "2024-03-20T10:30:00",
+                "track": "Coffee Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "coffee-break-5",
+        "name": "Coffee Break 5",
+        "plenary_events": {},
+        "start_time": "2024-03-20T10:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Lunch Break 3": {
+        "display_name": "Lunch Break 3",
+        "end_time": "2024-03-20T14:00:00",
+        "events": {
+            "lunch-break-3": {
+                "chairs": [],
+                "end_time": "2024-03-20T14:00:00",
+                "id": "lunch-break-3",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Lunch Break 3",
+                "start_time": "2024-03-20T12:30:00",
+                "track": "Lunch Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "lunch-break-3",
+        "name": "Lunch Break 3",
+        "plenary_events": {},
+        "start_time": "2024-03-20T12:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Coffee Break 6": {
+        "display_name": "Coffee Break 6",
+        "end_time": "2024-03-20T16:15:00",
+        "events": {
+            "coffee-break-6": {
+                "chairs": [],
+                "end_time": "2024-03-20T16:15:00",
+                "id": "coffee-break-6",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Coffee Break 6",
+                "start_time": "2024-03-20T15:45:00",
+                "track": "Coffee Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "coffee-break-6",
+        "name": "Coffee Break 6",
+        "plenary_events": {},
+        "start_time": "2024-03-20T15:45:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Coffee Break 7": {
+        "display_name": "Coffee Break 7",
+        "end_time": "2024-03-21T11:00:00",
+        "events": {
+            "coffee-break-7": {
+                "chairs": [],
+                "end_time": "2024-03-21T11:00:00",
+                "id": "coffee-break-7",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Coffee Break 7",
+                "start_time": "2024-03-21T10:30:00",
+                "track": "Coffee Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "coffee-break-7",
+        "name": "Coffee Break 7",
+        "plenary_events": {},
+        "start_time": "2024-03-21T10:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Lunch Break 4": {
+        "display_name": "Lunch Break 4",
+        "end_time": "2024-03-21T14:00:00",
+        "events": {
+            "lunch-break-4": {
+                "chairs": [],
+                "end_time": "2024-03-21T14:00:00",
+                "id": "lunch-break-4",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Lunch Break 4",
+                "start_time": "2024-03-21T12:30:00",
+                "track": "Lunch Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "lunch-break-4",
+        "name": "Lunch Break 4",
+        "plenary_events": {},
+        "start_time": "2024-03-21T12:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Coffee Break 8": {
+        "display_name": "Coffee Break 8",
+        "end_time": "2024-03-21T16:00:00",
+        "events": {
+            "coffee-break-8": {
+                "chairs": [],
+                "end_time": "2024-03-21T16:00:00",
+                "id": "coffee-break-8",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Coffee Break 8",
+                "start_time": "2024-03-21T15:30:00",
+                "track": "Coffee Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "coffee-break-8",
+        "name": "Coffee Break 8",
+        "plenary_events": {},
+        "start_time": "2024-03-21T15:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Coffee Break 9": {
+        "display_name": "Coffee Break 9",
+        "end_time": "2024-03-22T11:00:00",
+        "events": {
+            "coffee-break-9": {
+                "chairs": [],
+                "end_time": "2024-03-22T11:00:00",
+                "id": "coffee-break-9",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Coffee Break 9",
+                "start_time": "2024-03-22T10:30:00",
+                "track": "Coffee Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "coffee-break-9",
+        "name": "Coffee Break 9",
+        "plenary_events": {},
+        "start_time": "2024-03-22T10:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Lunch Break 5": {
+        "display_name": "Lunch Break 5",
+        "end_time": "2024-03-22T14:00:00",
+        "events": {
+            "lunch-break-5": {
+                "chairs": [],
+                "end_time": "2024-03-22T14:00:00",
+                "id": "lunch-break-5",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Lunch Break 5",
+                "start_time": "2024-03-22T12:30:00",
+                "track": "Lunch Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "lunch-break-5",
+        "name": "Lunch Break 5",
+        "plenary_events": {},
+        "start_time": "2024-03-22T12:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    },
+    "Coffee Break 10": {
+        "display_name": "Coffee Break 10",
+        "end_time": "2024-03-22T16:00:00",
+        "events": {
+            "coffee-break-10": {
+                "chairs": [],
+                "end_time": "2024-03-22T16:00:00",
+                "id": "coffee-break-10",
+                "link": null,
+                "paper_ids": [],
+                "room": null,
+                "session": "Coffee Break 10",
+                "start_time": "2024-03-22T15:30:00",
+                "track": "Coffee Break",
+                "type": "Breaks"
+            }
+        },
+        "id": "coffee-break-10",
+        "name": "Coffee Break 10",
+        "plenary_events": {},
+        "start_time": "2024-03-22T15:30:00",
+        "tutorial_events": {},
+        "type": "Breaks",
+        "workshop_events": {}
+    }
+}

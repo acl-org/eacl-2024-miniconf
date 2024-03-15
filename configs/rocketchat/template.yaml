@@ -1,0 +1,9 @@
+user_id: 5MX6yMtn4f9sZQ86C
+auth_token: tqavEbwkcoafkWWeoYf17H_S1ys99OD_Ei66mgll7kO
+server: https://acl.rocket.chat
+conference_file: ???
+command: create_paper_channels
+dry_run: false
+program_json_path: data/eacl_2024/new_data/conference.json
+booklet_json_path: data/eacl_2024/new_data/booklet_data.json
+workshops_yaml_path: data/eacl_2024/new_data/workshops.yaml

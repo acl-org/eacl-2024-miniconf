@@ -1,0 +1,37 @@
+[2024-03-14 10:55:12,016][werkzeug][WARNING] -  * Debugger is active!
+[2024-03-14 10:55:12,016][werkzeug][INFO] -  * Debugger PIN: 101-589-398
+[2024-03-14 11:16:06,089][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "GET /schedule.html HTTP/1.1" 200 -
+[2024-03-14 11:16:06,113][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "GET /static/js/typeahead.bundle.js HTTP/1.1" 200 -
+[2024-03-14 11:16:06,169][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,169][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,171][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,171][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,179][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,179][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,180][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,180][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,180][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,259][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,265][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,361][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "GET /schedule.json HTTP/1.1" 200 -
+[2024-03-14 11:16:06,362][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "GET /static/css/Lato-Regular.ttf HTTP/1.1" 200 -
+[2024-03-14 11:16:06,384][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:06,547][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:06] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,851][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "GET /index.html HTTP/1.1" 200 -
+[2024-03-14 11:16:07,874][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,874][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,875][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,876][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,877][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,877][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,878][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,878][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,880][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,902][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,909][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,911][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,921][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "GET /static/images/eacl2024/header.png HTTP/1.1" 200 -
+[2024-03-14 11:16:07,937][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:07,955][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:07] "[36mGET /static/css/Lato-Regular.ttf HTTP/1.1[0m" 304 -
+[2024-03-14 11:16:10,434][werkzeug][INFO] - 127.0.0.1 - - [14/Mar/2024 11:16:10] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
+[2024-03-14 11:47:45,130][werkzeug][INFO] -  * Detected change in '/hits/fast/nlp/liuwi/PycharmProjects/eacl2024-miniconf/main.py', reloading

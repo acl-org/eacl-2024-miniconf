@@ -1,0 +1,385 @@
+{
+    "plenaries": [
+        {
+            "id": "opening-session",
+            "title": "Opening Session and Presidential Address",
+            "desc": "March 18 - Time: 09:00 - 09:30",
+            "location": "Radisson",
+            "start_time": "2024-03-18T09:00:00",
+            "end_time": "2024-03-18T09:30:00",
+            "bio": "TBD",
+            "speaker_name": "EACL 2024 General Chair",
+            "institution": "EACL 2024",
+            "image": "null"
+        },
+        {
+            "id": "keynote-01",
+            "title": "Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?",
+            "desc": "March 18 - Time: 09:30 - 10:30",
+            "location": "Radisson",
+            "start_time": "2024-03-18T09:30:00",
+            "end_time": "2024-03-18T10:30:00",
+            "bio": "Dr. Hongning Wang is now an associate professor at the Department of Computer Science and Technology at Tsinghua University. Prior to that, he was the Copenhaver Associate Professor in the Department of Computer Science at the University of Virginia. He received his PhD degree in computer science at the University of Illinois at Champaign-Urbana in 2014. His research generally lies in the intersection among machine learning and information retrieval, with a special focus on sequential decision optimization and computational user modeling. His work has generated over 100 research papers in top venues in data mining and information retrieval areas. He is a recipient of 2016 National Science Foundation CAREER Award, 2020 Google Faculty Research Award, and SIGIR\u20192019 Best Paper Award.",
+            "speaker_name": "Hongning Wang",
+            "institution": "Tsinghua University",
+            "image": "null"
+        },
+        {
+            "id": "keynote-02",
+            "title": "Quality Data for LLMs: Challenges and Opportunities for NLP",
+            "desc": "March 19 - Time: 09:00 - 10:00",
+            "location": "Radisson",
+            "start_time": "2024-03-19T09:00:00",
+            "end_time": "2024-03-19T10:00:00",
+            "bio": "Hinrich Schuetze is Professor at the Center for Information and Language Processing at LMU Munich. His lab is engaged in research on multilinguality, representation learning and linguistic analysis of NLP models. His research has been funded by NSF, the German National Science Foundation and the European Research Council (ERC Advanced Grant), inter alia. Hinrich is coauthor of two well-known textbooks (Foundations of Statistical Natural Language Processing and Introduction to Information Retrieval), a fellow of HessianAI, ELLIS (the European Laboratory for Learning and Intelligent Systems) and ACL (Association for Computational Linguistics) and (co-)awardee of several best paper awards and the ACL 2023 25-year test of time award.",
+            "speaker_name": "Hinrich Sch\u00fctze",
+            "institution": "Ludwig Maximilian University of Munich",
+            "image": "null"
+        },
+        {
+            "id": "business-meeting",
+            "title": "Business Meeting",
+            "desc": "March 19 - Time: 13:00 - 13:45",
+            "location": "Radisson",
+            "start_time": "2024-03-19T13:00:00",
+            "end_time": "2024-03-19T13:45:00",
+            "bio": "TBD",
+            "speaker_name": "EACL 2024 Board",
+            "institution": "EACL 2024",
+            "image": "null"
+        },
+        {
+            "id": "keynote-03",
+            "title": "Prompting is not all you need! Or why Structure and Representations still matter in NLP",
+            "desc": "March 20 - Time: 14:45 - 15:45",
+            "location": "Radisson",
+            "start_time": "2024-03-20T14:45:00",
+            "end_time": "2024-03-20T15:45:00",
+            "bio": "Mirella Lapata is professor of natural language processing in the School of Informatics at the University of Edinburgh. Her research focuses on getting computers to understand, reason with, and generate natural language. She is the first recipient (2009) of the British Computer Society and Information Retrieval Specialist Group (BCS/IRSG) Karen Sparck Jones award and a Fellow of the Royal Society of Edinburgh, the ACL, and Academia Europaea. Mirella has also received best paper awards in leading NLP conferences and has served on the editorial boards of the Journal of Artificial Intelligence Research, the Transactions of the ACL, and Computational Linguistics. She was president of SIGDAT (the group that organizes EMNLP) in 2018. She has been awarded an ERC consolidator grant, a Royal Society Wolfson Research Merit Award, and a UKRI Turing AI World-Leading Researcher Fellowship.",
+            "speaker_name": "Mirella Lapata",
+            "institution": "University of Edinburgh",
+            "image": "null"
+        },
+        {
+            "id": "best-paper",
+            "title": "Best Paper Awards",
+            "desc": "March 20 - Time: 16:00 - 16:45",
+            "location": "Radisson",
+            "start_time": "2024-03-20T16:00:00",
+            "end_time": "2024-03-20T16:45:00",
+            "bio": "TBD",
+            "speaker_name": "EACL 2024 General Chair",
+            "institution": "EACL 2024",
+            "image": "null"
+        },
+        {
+            "id": "closing-session",
+            "title": "Closing Remarks & Upcoming Conference Announcements",
+            "desc": "March 20 - Time: 16:45 - 17:30",
+            "location": "Radisson",
+            "start_time": "2024-03-20T16:45:00",
+            "end_time": "2024-03-20T17:30:00",
+            "bio": "TBD",
+            "speaker_name": "EACL 2024 General Chair",
+            "institution": "EACL 2024",
+            "image": "null"
+        }
+    ],
+    "tutorials": [
+        {
+            "id": "T1",
+            "title": "Transformer-specific Interpretability",
+            "desc": "Transformers have emerged as dominant players in various scientific fields, especially NLP. However, their inner workings, like many other neural networks, remain opaque. In spite of the widespread use of model-agnostic interpretability techniques, including gradient-based and occlusion-based, their shortcomings are becoming increasingly apparent for Transformer interpretation, making the field of interpretability more demanding today. In this tutorial, we will present Transformer-specific interpretability methods, a new trending approach, that make use of specific features of the Transformer architecture and are deemed more promising for understanding Transformer-based models. We start by discussing the potential pitfalls and misleading results model-agnostic approaches may produce when interpreting Transformers. Next, we discuss Transformer-specific methods, including those designed to quantify context-mixing interactions among all input pairs (as the fundamental property of the Transformer architecture) and those that combine causal methods with low-level Transformer analysis to identify particular subnetworks within a model that are responsible for specific tasks. By the end of the tutorial, we hope participants will understand the advantages (as well as current limitations) of Transformer-specific interpretability methods and how they can be applied to their own research work.",
+            "location": "Radisson",
+            "start_time": "2024-03-21T14:00:00",
+            "end_time": "2024-03-21T17:30:00",
+            "hosts": [
+                "Hosein Mohebbi",
+                "Jaap Jumelet",
+                "Michael Hanna",
+                "Afra Alishahi and Willem Zuidema"
+            ],
+            "rocketchat": "tutorial-1"
+        },
+        {
+            "id": "T2",
+            "title": "LLMs for Low Resource Languages in Multilingual, Multimodal and Dialectal Settings",
+            "desc": "The recent breakthroughs in Artificial Intelligence (AI) can be attributed to the remarkable performance of Large Language Models (LLMs) across a spectrum of research areas (e.g., machine translation, question-answering, automatic speech recognition, text-to-speech generation) and application domains (e.g., business, law, healthcare, education, and psychology). The success of these LLMs largely depends on specific training techniques, most notably instruction tuning, RLHF, and subsequent prompting to achieve the desired output. As the development of such LLMs continues to increase in both closed and open settings, evaluation has become crucial for understanding their generalization capabilities across different tasks, modalities, languages, and dialects. This evaluation process is tightly coupled with prompting, which plays a key role in obtaining better outputs. There has been attempts to evaluate such models focusing on diverse tasks, languages, and dialects, which suggests that the capabilities of LLMs are still limited for medium-to-low-resource languages due to the lack of representative datasets. The tutorial offers an overview of this emerging research area. We explore the capabilities of LLMs in terms of their performance, zero- and few-shot settings, fine-tuning, instructions tuning, and close vs. open models with a special emphasis on low-resource settings. In addition to LLMs for standard NLP tasks, we will focus on speech and multimodality.",
+            "location": "Fortress 2",
+            "start_time": "2024-03-21T14:00:00",
+            "end_time": "2024-03-21T17:30:00",
+            "hosts": [
+                "Firoj Alam",
+                "Shammur Absar Chowdhury",
+                "Sabri Boughorbel and Maram Hasanain"
+            ],
+            "rocketchat": "tutorial-2"
+        },
+        {
+            "id": "T3",
+            "title": "Computational modeling of semantic change",
+            "desc": "This tutorial provides an overview of current approaches, problems and challenges in the detection of lexical semantic change. At its core, computational modelling of semantic change consists of the following: (1) Modelling word meaning, typically using unsupervised methods applied to diachronic corpora; (2) modelling meaning change, based on the results of the above; (3) evaluation. The tutorial will provide an introduction to lexical semantic change and an overview of the resources available (corpora, pre-trained diachronic models and data sets). We will highlight issues related to the creation and use of diachronic corpora and different procedures for annotating data. We will then present the current state of the art in automatic detection of LSC, provide a hands-on section on available systems and tools, and open the floor for discussion on possible applications.",
+            "location": "Fortress 1",
+            "start_time": "2024-03-21T09:00:00",
+            "end_time": "2024-03-21T17:30:00",
+            "hosts": [
+                "Pierluigi Cassotti",
+                "Francesco Periti",
+                "Stefano De Pascale",
+                "Haim Dubossarsky and Nina Tahmasebi"
+            ],
+            "rocketchat": "tutorial-3"
+        },
+        {
+            "id": "T4",
+            "title": "Item Response Theory for Natural Language Processing",
+            "desc": "This tutorial will introduce the NLP community to Item Response Theory (IRT). IRT is a method from the field of psychometrics for model and dataset assessment. IRT has been used for decades to build test sets for human subjects and estimate latent characteristics of dataset examples. Recently, there has been an uptick in work applying IRT to tasks in NLP. It is our goal to introduce the wider NLP community to IRT and show its benefits for a number of NLP tasks. From this tutorial, we hope to encourage wider adoption of IRT among NLP researchers.",
+            "location": "Fortress 2",
+            "start_time": "2024-03-21T09:00:00",
+            "end_time": "2024-03-21T12:30:00",
+            "hosts": [
+                "Jo\u00e3o Sedoc",
+                "John P. Lalor",
+                "Pedro Rodriguez and Jose Hernandez-Orallo"
+            ],
+            "rocketchat": "tutorial-4"
+        },
+        {
+            "id": "T5",
+            "title": "Language+Molecules",
+            "desc": "Climate change, access to food and water, pandemics\u2014 these words, when uttered, immediately summon to mind global challenges with possible disastrous outcomes. Molecular solutions will be critical to addressing these global problems on scales of complexity never-before-seen. However, they exist in extremely large search spaces, which makes AI tools a necessity. Excitingly, the chemistry field is posed to be substantially accelerated via multimodal models combining language with molecules and drug structures.",
+            "location": "Radisson",
+            "start_time": "2024-03-21T09:00:00",
+            "end_time": "2024-03-21T12:30:00",
+            "hosts": [
+                "Carl Edwards",
+                "Qingyun Wang and Heng Ji"
+            ],
+            "rocketchat": "tutorial-5"
+        }
+    ],
+    "workshops": [
+        {
+            "id": "Workshop-1",
+            "title": "5th Workshop on Computational Approaches to Discourse",
+            "desc": "5th Workshop on Computational Approaches to Discourse",
+            "location": "Radisson , Reading",
+            "start_time": "2024-03-21T09:15:00",
+            "end_time": "2024-03-21T17:45:00",
+            "url": "https://sites.google.com/view/codi2024/",
+            "chair": "Chlo\u00e9 Braud, Christian Hardmeier, Chuyuan Li, Junyi Jessy Li, Sharid Lo\u00e1iciga, Michael Strube, Amir Zeldes"
+        },
+        {
+            "id": "Workshop-2",
+            "title": "Ninth Workshop on Computational Linguistics and Clinical Psychology",
+            "desc": "Ninth Workshop on Computational Linguistics and Clinical Psychology",
+            "location": "Radisson , Carlson ",
+            "start_time": "2024-03-21T08:45:00",
+            "end_time": "2024-03-21T17:30:00",
+            "url": "https://clpsych.org/",
+            "chair": "Andrew Yates, Bart Desmet, Emily Prud\u2019hommeaux, Ayah Zirikly, Kfir Bar, Molly Ireland, Sean MacAvaney, Steven Bedrick, Yaakov Ophir"
+        },
+        {
+            "id": "Workshop-3",
+            "title": "Fourth Workshop on Language Technology for Equality, Diversity and Inclusion",
+            "desc": "Fourth Workshop on Language Technology for Equality, Diversity and Inclusion",
+            "location": "Radisson , Marie Louise Suite 1",
+            "start_time": "2024-03-21T09:00:00",
+            "end_time": "2024-03-21T17:45:00",
+            "url": "https://sites.google.com/view/lt-edi-2024",
+            "chair": "Bharathi Raja Chakravarthi, Bharathi B, Paul Buitelaar, Thenmozhi D, Gy\u00f6rgy Kov\u00e1cs, Miguel \u00c1ngel Garc\u00eda Cumbreras"
+        },
+        {
+            "id": "Workshop-4",
+            "title": "Workshop on Simulating Conversational Intelligence in Chat",
+            "desc": "Workshop on Simulating Conversational Intelligence in Chat",
+            "location": "Radisson , Marie Louise Suite 2",
+            "start_time": "2024-03-21T09:15:00",
+            "end_time": "2024-03-21T17:10:00",
+            "url": "https://sites.google.com/view/dialogue-evaluation/home?authuser=3",
+            "chair": "Yvette Graham, Gerasimos Lampouras, Ignacio Iacobacci, Haider Khalid, Mohammed Rameez Qureshi, Qun Liu, Sinead Madden"
+        },
+        {
+            "id": "Workshop-5",
+            "title": "The Third Workshop on Understanding Implicit and Underspecified Language",
+            "desc": "The Third Workshop on Understanding Implicit and Underspecified Language",
+            "location": "Corinthia, Bastion 1",
+            "start_time": "2024-03-21T09:30:00",
+            "end_time": "2024-03-21T17:10:00",
+            "url": "https://unimplicit2024.github.io/",
+            "chair": "Sandro Pezzelle, Valentina Pyatkin, Elias Stengel-Eskin, Alisa Liu, Daniel Fried"
+        },
+        {
+            "id": "Workshop-6",
+            "title": "Modular and Open Multilingual NLP",
+            "desc": "Modular and Open Multilingual NLP",
+            "location": "Corinthia, Bastion 2",
+            "start_time": "2024-03-21T09:15:00",
+            "end_time": "2024-03-21T17:20:00",
+            "url": "https://moomin-workshop.github.io/",
+            "chair": "Timothee Mickus, J\u00f6rg Tiedemann, Ahmet \u00dcst\u00fcn, Ra\u00fal V\u00e1zquez"
+        },
+        {
+            "id": "Workshop-7",
+            "title": "Computational Approaches to Language Data Pseudonymization",
+            "desc": "Computational Approaches to Language Data Pseudonymization",
+            "location": "Corinthia, Gardjola 3",
+            "start_time": "2024-03-21T09:00:00",
+            "end_time": "2024-03-21T17:00:00",
+            "url": "https://mormor-karl.github.io/events/CALD-pseudo/",
+            "chair": "Elena Volodina, Therese Lindstr\u00f6m Tiedemann, Simon Dobnik, Xuan-Son Vu"
+        },
+        {
+            "id": "Workshop-8",
+            "title": "The Seventh Workshop on The Use of Computational Methods in the Study of Endangered Languages",
+            "desc": "The Seventh Workshop on The Use of Computational Methods in the Study of Endangered Languages",
+            "location": "Corinthia, Gardjola 1 & 2",
+            "start_time": "2024-03-21T09:00:00",
+            "end_time": "2024-03-21T17:30:00",
+            "url": "https://computel-workshop.org/computel-7/",
+            "chair": "Sarah Moeller, Aditi Chaudhary, Alexis Palmer, Shruti Rijhwani, Lane Schwartz, Daisy Rosenblum, Antti Arppe, Ryan Henke, Christopher Cox, Godfred Agyapong"
+        },
+        {
+            "id": "Workshop-9",
+            "title": "9th Workshop on Noisy and User-generated Text",
+            "desc": "9th Workshop on Noisy and User-generated Text",
+            "location": "Radisson , Radisson",
+            "start_time": "2024-03-22T09:00:00",
+            "end_time": "2024-03-22T17:00:00",
+            "url": "https://noisy-text.github.io/2024/",
+            "chair": "Maximilian M\u00fcller-Eberstein, Timothy Baldwin, Wei Xu, Alan Ritter, Rob van der Goot, JinYeong Bak"
+        },
+        {
+            "id": "Workshop-10",
+            "title": "The 8th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature",
+            "desc": "The 8th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature",
+            "location": "Radisson , Claremont ",
+            "start_time": "2024-03-22T09:00:00",
+            "end_time": "2024-03-22T17:45:00",
+            "url": "https://sighum.wordpress.com/events/latech-clfl-2024/",
+            "chair": "Yuri Bizzoni, Stefania Degaetano-Ortlieb, Anna Kazantseva, Stan Szpakowicz"
+        },
+        {
+            "id": "Workshop-11",
+            "title": "The 7th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text",
+            "desc": "The 7th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text",
+            "location": "Radisson , Reading",
+            "start_time": "2024-03-22T09:00:00",
+            "end_time": "2024-03-22T17:20:00",
+            "url": "https://emw.ku.edu.tr/case-2024",
+            "chair": "Ali H\u00fcrriyeto\u011flu, Hristo Tanev, Erdem Y\u00f6r\u00fck"
+        },
+        {
+            "id": "Workshop-12",
+            "title": "The 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP",
+            "desc": "The 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP",
+            "location": "Radisson , Marie Loise 1",
+            "start_time": "2024-03-22T08:50:00",
+            "end_time": "2024-03-22T18:00:00",
+            "url": "https://sigtyp.github.io/workshop.html",
+            "chair": "Michael Hahn, Rena Gao, Saliha Muradoglu, Yulia Otmakhova, Andreas Shcherbakov, Oleg Serikov, Alexey Sorokin, Priya Rani,Ryan Cotterell, Edoardo M. Ponti, Kat Vylomova "
+        },
+        {
+            "id": "Workshop-13",
+            "title": "Personalization of Generative AI Systems",
+            "desc": "Personalization of Generative AI Systems",
+            "location": "Radisson , Carlson",
+            "start_time": "2024-03-22T09:00:00",
+            "end_time": "2024-03-22T17:30:00",
+            "url": "https://genpersonalization.github.io/",
+            "chair": "Ameet Deshpande, Karthik Narasimhan, Ashwin Kalyan, Ashish Sabharwal, Diyi Yang, Joon Sung Park, EunJeong Hwang, Vishvak Murahari"
+        },
+        {
+            "id": "Workshop-14",
+            "title": "The 18th Linguistic Annotation Workshop",
+            "desc": "The 18th Linguistic Annotation Workshop",
+            "location": "Radisson , Marie Louise Suite 2",
+            "start_time": "2024-03-22T08:50:00",
+            "end_time": "2024-03-22T17:30:00",
+            "url": "https://sigann.github.io/LAW-XVIII-2024/",
+            "chair": "Sophie Henning, Manfred Stede, Ines Rehbein, Amir Zeldes"
+        },
+        {
+            "id": "Workshop-15",
+            "title": "Towards Ethical and Inclusive Conversational AI: Language Attitudes, Linguistic Diversity, and Language Rights",
+            "desc": "Towards Ethical and Inclusive Conversational AI: Language Attitudes, Linguistic Diversity, and Language Rights",
+            "location": "Corinthia, Bastion 1",
+            "start_time": "2024-03-22T09:00:00",
+            "end_time": "2024-03-22T16:50:00",
+            "url": "https://sites.google.com/view/teicai2024",
+            "chair": "Nina Hosseini-Kivanani, Sviatlana H\u00f6hn, Dimitra Anastasiou, Angela Soltan, Bettina Migge, Doris Dippold, Fred Philippy, Ekaterina Kamlovskaya"
+        },
+        {
+            "id": "Workshop-16",
+            "title": "UncertaiNLPFirst Workshop on Uncertainty-Aware NLP",
+            "desc": "UncertaiNLPFirst Workshop on Uncertainty-Aware NLP",
+            "location": "Corinthia, Bastion 2",
+            "start_time": "2024-03-22T09:00:00",
+            "end_time": "2024-03-22T17:30:00",
+            "url": "https://uncertainlp.github.io/",
+            "chair": "Wilker Aziz, Joris Baan, Hande Celikkanat, Marie-Catherine de Marneffe, Barbara Plank, Swabha Swayamdipta, J\u00f6rg Tiedemann, Dennis Ulmer"
+        },
+        {
+            "id": "Workshop-17",
+            "title": "The 1st Workshop on Natural Language Processing for Human Resources",
+            "desc": "The 1st Workshop on Natural Language Processing for Human Resources",
+            "location": "Corinthia, Gardijola 3",
+            "start_time": "2024-03-22T08:30:00",
+            "end_time": "2024-03-22T17:00:00",
+            "url": "https://megagon.ai/nlp4hr-2024/",
+            "chair": "Estevam Hruschka, Thom Lake, Naoki Otani, Tom Mitchell"
+        },
+        {
+            "id": "Workshop-18",
+            "title": "Workshop on the Scaling Behavior of Large Language Models",
+            "desc": "Workshop on the Scaling Behavior of Large Language Models",
+            "location": "Corinthia, Fortress 1",
+            "start_time": "2024-03-22T09:00:00",
+            "end_time": "2024-03-22T17:30:00",
+            "url": "https://scale-llm-24.pages.dev/",
+            "chair": "Antonio Valerio Miceli-Barone, Fazl Barez, Shay B. Cohen, Elena Voita, Ulrich Germann, Michal Lukasik"
+        },
+        {
+            "id": "Workshop-19",
+            "title": "The Fourth Workshop on Speech and Language Technologies for Dravidian Languages",
+            "desc": "The Fourth Workshop on Speech and Language Technologies for Dravidian Languages",
+            "location": "Corinthia, Fortress 2",
+            "start_time": "2024-03-22T09:15:00",
+            "end_time": "2024-03-22T17:15:00",
+            "url": "https://sites.google.com/view/dravidianlangtech-2024/",
+            "chair": "Bharathi Raja Chakravarthi, Ruba Priyadharshini, Anand Kumar M, Sajeetha Thavareesan, Elizabeth Sherly, Rajeswari Natarajan, Manikandan Ravikiran"
+        },
+        {
+            "id": "Workshop-8",
+            "title": "The Seventh Workshop on The Use of Computational Methods in the Study of Endangered Languages",
+            "desc": "The Seventh Workshop on The Use of Computational Methods in the Study of Endangered Languages",
+            "location": "Corinthia, Gardjola 1 & 2",
+            "start_time": "2024-03-22T09:00:00",
+            "end_time": "2024-03-22T15:45:00",
+            "url": "https://computel-workshop.org/computel-7/",
+            "chair": "Sarah Moeller, Aditi Chaudhary, Alexis Palmer, Shruti Rijhwani, Lane Schwartz, Daisy Rosenblum, Antti Arppe, Ryan Henke, Christopher Cox, Godfred Agyapong"
+        }
+    ],
+    "social_events": [
+        {
+            "title": "Welcome Reception",
+            "id": "welcome-reception",
+            "day": "Sunday, March 17, 2024",
+            "venue": "",
+            "start_time": "2024-03-17 18:00:00",
+            "end_time": "2024-03-17 20:30:00",
+            "desc": "",
+            "location": "Radisson Blu"
+        },
+        {
+            "title": "Social Event Dinner & Entertainment",
+            "id": "social-event-dinner-entertainment",
+            "day": "Tuesday, March 19, 2024",
+            "venue": "",
+            "start_time": "2024-03-19 17:00:00",
+            "end_time": "2024-03-19 22:00:00",
+            "desc": "Dinner & Entertainment",
+            "location": "Corinthia Hotel Rooms"
+        }
+    ]
+}

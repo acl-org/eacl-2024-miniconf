@@ -1,0 +1,66 @@
+- anthology_venue_id: CODI
+  name: 5th Workshop on Computational Approaches to Discourse
+  short_name: CODI
+- anthology_venue_id: CLPsych
+  name: Ninth Workshop on Computational Linguistics and Clinical Psychology
+  short_name: CLPsych
+- anthology_venue_id: LTEDI
+  name: Fourth Workshop on Language Technology for Equality, Diversity and Inclusion
+  short_name: LTEDI
+- anthology_venue_id: SCI-CHAT
+  name: Workshop on Simulating Conversational Intelligence in Chat
+  short_name: SCI-CHAT
+- anthology_venue_id: UnImplicit
+  name: The Third Workshop on Understanding Implicit and Underspecified Language
+  short_name: UnImplicit
+- anthology_venue_id: MOOMIN
+  name: Modular and Open Multilingual NLP
+  short_name: MOOMIN
+- anthology_venue_id: CALD-pseudo
+  name: Computational Approaches to Language Data Pseudonymization
+  short_name: CALD-pseudo
+- anthology_venue_id: Computel-7
+  name: The Seventh Workshop on The Use of Computational Methods in the Study of Endangered
+    Languages
+  short_name: Computel-7
+- anthology_venue_id: WNUT
+  name: 9th Workshop on Noisy and User-generated Text
+  short_name: WNUT
+- anthology_venue_id: LaTeCH-CLfL
+  name: The 8th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage,
+    Social Sciences, Humanities and Literature
+  short_name: LaTeCH-CLfL
+- anthology_venue_id: CASE
+  name: The 7th Workshop on Challenges and Applications of Automated Extraction of
+    Socio-political Events from Text
+  short_name: CASE
+- anthology_venue_id: SIGTYP
+  name: The 6th Workshop on Research in Computational Linguistic Typology and Multilingual
+    NLP
+  short_name: SIGTYP
+- anthology_venue_id: PERSONALIZE
+  name: Personalization of Generative AI Systems
+  short_name: PERSONALIZE
+- anthology_venue_id: LAW-XVIII
+  name: The 18th Linguistic Annotation Workshop
+  short_name: LAW-XVIII
+- anthology_venue_id: TEICAI
+  name: 'Towards Ethical and Inclusive Conversational AI: Language Attitudes, Linguistic
+    Diversity, and Language Rights'
+  short_name: TEICAI
+- anthology_venue_id: UncertaiNLP
+  name: UncertaiNLPFirst Workshop on Uncertainty-Aware NLP
+  short_name: UncertaiNLP
+- anthology_venue_id: NLP4HR
+  name: The 1st Workshop on Natural Language Processing for Human Resources
+  short_name: NLP4HR
+- anthology_venue_id: SCALE-LLM
+  name: Workshop on the Scaling Behavior of Large Language Models
+  short_name: SCALE-LLM
+- anthology_venue_id: DravidianLangTech
+  name: The Fourth Workshop on Speech and Language Technologies for Dravidian Languages
+  short_name: DravidianLangTech
+- anthology_venue_id: Computel-7
+  name: The Seventh Workshop on The Use of Computational Methods in the Study of Endangered
+    Languages
+  short_name: Computel-7

@@ -1,0 +1,11 @@
+[2024-03-14 15:51:24,511][werkzeug][INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7777
+ * Running on http://172.16.35.61:7777
+[2024-03-14 15:51:24,512][werkzeug][INFO] - [33mPress CTRL+C to quit[0m
+[2024-03-14 15:51:24,512][werkzeug][INFO] -  * Restarting with stat
+[2024-03-14 15:51:24,906][werkzeug][WARNING] -  * Debugger is active!
+[2024-03-14 15:51:24,906][werkzeug][INFO] -  * Debugger PIN: 101-589-398
+[2024-03-14 15:51:46,083][werkzeug][INFO] -  * Detected change in '/hits/fast/nlp/liuwi/PycharmProjects/eacl2024-miniconf/eacl_miniconf/load_site_data.py', reloading
+[2024-03-14 15:51:46,116][werkzeug][INFO] -  * Restarting with stat
+[2024-03-14 15:59:28,375][werkzeug][INFO] -  * Restarting with stat

@@ -1,0 +1,77 @@
+{
+    "Affinity Group Meeting 1": {
+        "display_name": "Masakhane/Black in AI/North Africans in NLP",
+        "end_time": "2024-03-19T13:45:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2024-03-19T13:45:00",
+                "id": "AGM-1",
+                "link": null,
+                "paper_ids": [],
+                "room": NaN,
+                "session": "event_session",
+                "start_time": "2024-03-19T13:00:00",
+                "track": "Affinity Group Meeting 1",
+                "type": "Socials"
+            }
+        },
+        "id": "AGM-1",
+        "name": "Masakhane/Black in AI/North Africans in NLP",
+        "plenary_events": {},
+        "start_time": "2024-03-19T13:00:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Affinity Group Meeting 2": {
+        "display_name": "Queer in AI",
+        "end_time": "2024-03-19T15:30:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2024-03-19T15:30:00",
+                "id": "AGM-2",
+                "link": null,
+                "paper_ids": [],
+                "room": NaN,
+                "session": "event_session",
+                "start_time": "2024-03-19T14:00:00",
+                "track": "Affinity Group Meeting 2",
+                "type": "Socials"
+            }
+        },
+        "id": "AGM-2",
+        "name": "Queer in AI",
+        "plenary_events": {},
+        "start_time": "2024-03-19T14:00:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Affinity Group Meeting 3": {
+        "display_name": "Latin X in AI",
+        "end_time": "2024-03-20T12:30:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2024-03-20T12:30:00",
+                "id": "AGM-3",
+                "link": null,
+                "paper_ids": [],
+                "room": NaN,
+                "session": "event_session",
+                "start_time": "2024-03-20T11:00:00",
+                "track": "Affinity Group Meeting 3",
+                "type": "Socials"
+            }
+        },
+        "id": "AGM-3",
+        "name": "Latin X in AI",
+        "plenary_events": {},
+        "start_time": "2024-03-20T11:00:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    }
+}
