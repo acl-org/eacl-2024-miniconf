@@ -1,0 +1,20 @@
+[2024-03-15 19:49:30,118][werkzeug][WARNING] -  * Debugger is active!
+[2024-03-15 19:49:30,129][werkzeug][INFO] -  * Debugger PIN: 795-966-722
+[2024-03-15 19:49:30,182][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "GET /index.html HTTP/1.1" 200 -
+[2024-03-15 19:49:30,214][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,219][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,221][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,222][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,225][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,225][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,227][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,228][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,229][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,242][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,246][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,248][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/css/Lato-Regular.ttf HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,250][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,618][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:30,618][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:30] "[36mGET /static/images/eacl2024/header.png HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:31,195][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:31] "[36mGET /static/favicon/favicon.ico HTTP/1.1[0m" 304 -
+[2024-03-15 19:49:31,197][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:49:31] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -

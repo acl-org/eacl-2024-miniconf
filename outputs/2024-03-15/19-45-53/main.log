@@ -1,0 +1,21 @@
+[2024-03-15 19:45:53,543][werkzeug][WARNING] -  * Debugger is active!
+[2024-03-15 19:45:53,556][werkzeug][INFO] -  * Debugger PIN: 795-966-722
+[2024-03-15 19:45:55,351][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "[32mGET / HTTP/1.1[0m" 302 -
+[2024-03-15 19:45:55,403][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /index.html HTTP/1.1" 200 -
+[2024-03-15 19:45:55,437][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/css/Lato.css HTTP/1.1" 200 -
+[2024-03-15 19:45:55,444][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/css/main.css HTTP/1.1" 200 -
+[2024-03-15 19:45:55,446][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/css/typeahead.css HTTP/1.1" 200 -
+[2024-03-15 19:45:55,447][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/css/lazy_load.css HTTP/1.1" 200 -
+[2024-03-15 19:45:55,450][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/css/chats-modal.css HTTP/1.1" 200 -
+[2024-03-15 19:45:55,451][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/css/Cuprum.css HTTP/1.1" 200 -
+[2024-03-15 19:45:55,458][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/js/typeahead.bundle.js HTTP/1.1" 200 -
+[2024-03-15 19:45:55,458][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/css/Exo.css HTTP/1.1" 200 -
+[2024-03-15 19:45:55,459][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/js/pdf_render.js HTTP/1.1" 200 -
+[2024-03-15 19:45:55,459][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/images/eacl2024/acl-logo.png HTTP/1.1" 200 -
+[2024-03-15 19:45:55,459][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/js/lazy_load.js HTTP/1.1" 200 -
+[2024-03-15 19:45:55,542][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/js/highly-active-chats.js HTTP/1.1" 200 -
+[2024-03-15 19:45:55,544][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/images/eacl2024/header.png HTTP/1.1" 200 -
+[2024-03-15 19:45:55,563][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/css/Lato-Black.ttf HTTP/1.1" 200 -
+[2024-03-15 19:45:55,566][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:55] "GET /static/css/Lato-Regular.ttf HTTP/1.1" 200 -
+[2024-03-15 19:45:56,637][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:56] "GET /static/favicon/site.webmanifest HTTP/1.1" 200 -
+[2024-03-15 19:45:56,637][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:45:56] "GET /static/favicon/favicon.ico HTTP/1.1" 200 -

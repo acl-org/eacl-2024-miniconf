@@ -1,0 +1,18 @@
+[2024-03-15 19:51:48,105][werkzeug][WARNING] -  * Debugger is active!
+[2024-03-15 19:51:48,114][werkzeug][INFO] -  * Debugger PIN: 795-966-722
+[2024-03-15 19:51:49,213][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "GET /index.html HTTP/1.1" 200 -
+[2024-03-15 19:51:49,245][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,246][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,246][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,247][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,248][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,248][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,250][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,255][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,257][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,259][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/images/eacl2024/acl-logo.png HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,261][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,264][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,265][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/images/eacl2024/header.png HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,815][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
+[2024-03-15 19:51:49,816][werkzeug][INFO] - 127.0.0.1 - - [15/Mar/2024 19:51:49] "[36mGET /static/favicon/favicon.ico HTTP/1.1[0m" 304 -
