@@ -1,4 +1,4 @@
-# EMNLP 2023 Virtual Conference
+# EACL 2024 Virtual Conference
 
 This virtual conference page is based on [MiniConf](http://www.mini-conf.org/) by Alexander Rush and Hendrik Strobelt.
 It was extended by the [amazing team of ACL 2020](https://github.com/acl-org/acl-2020-virtual-conference) and [amazing team of ACL 2023](https://github.com/acl-org/acl-2023-miniconf/).

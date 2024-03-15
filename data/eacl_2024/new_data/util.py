@@ -397,7 +397,7 @@ def convert_oral_csv(data_file):
         end_time = (t_start_time + datetime.timedelta(minutes=15)).time()
         end_time = end_time.strftime('%H:%M')
         location = row['Room']
-        track = row['Track']
+        track = row['Track'].replace("/", " ")
         presentation_order = row['Pres. Order']
         session_title = row['Session Name ']
         session_id_on_underline = ""
@@ -496,7 +496,7 @@ def convert_poster_csv(data_file):
                 track = "Demo"
             else:
                 category = "Poster"
-                track = row['Track']
+                track = row['Track'].replace("/", " ")
         session_id = ""
         poster_pref = row['Status']
         location = "Radisson"
@@ -599,8 +599,8 @@ def generate_plenary_json(data_file):
 
 if __name__ == "__main__":
     data_file = "EACL24-Events.xlsx"
-    write_to_excel(data_file)
-    # convert_oral_csv("old/eacl-oral-papers.tsv")
+    # write_to_excel(data_file)
+    convert_oral_csv("eacl-oral-papers.tsv")
     # convert_poster_csv("eacl-poster-papers.tsv")
     # generate_plenary_json("inputs.xlsx")
 

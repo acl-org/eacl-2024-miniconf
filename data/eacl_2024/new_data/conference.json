@@ -36,10 +36,10 @@
             "track": "Dialogue and Interactive Systems",
             "type": "Poster"
         },
-        "business-meeting_-efficient/low-resource-methods-in-nlp-(poster)": {
+        "business-meeting_-efficient-low-resource-methods-in-nlp-(poster)": {
             "chairs": [],
             "end_time": "2024-03-19T13:45:00+01:00",
-            "id": "business-meeting_-efficient/low-resource-methods-in-nlp-(poster)",
+            "id": "business-meeting_-efficient-low-resource-methods-in-nlp-(poster)",
             "link": null,
             "paper_ids": [
                 "296"
@@ -47,7 +47,7 @@
             "room": "Radisson",
             "session": "Business Meeting",
             "start_time": "2024-03-19T13:00:00+01:00",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "type": "Poster"
         },
         "business-meeting_-ethics-and-nlp-(poster)": {
@@ -430,10 +430,10 @@
             "track": "Demo",
             "type": "Poster"
         },
-        "session-11_-efficient/low-resource-methods-in-nlp-(poster)": {
+        "session-11_-efficient-low-resource-methods-in-nlp-(poster)": {
             "chairs": [],
             "end_time": "2024-03-20T14:45:00+01:00",
-            "id": "session-11_-efficient/low-resource-methods-in-nlp-(poster)",
+            "id": "session-11_-efficient-low-resource-methods-in-nlp-(poster)",
             "link": null,
             "paper_ids": [
                 "36",
@@ -444,7 +444,7 @@
             "room": "GatherTown",
             "session": "Session 11",
             "start_time": "2024-03-20T14:00:00+01:00",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "type": "Poster"
         },
         "session-11_-generation-(poster)": {
@@ -639,10 +639,10 @@
             "track": "Dialogue and Interactive Systems",
             "type": "Oral"
         },
-        "session-2_-efficient/low-resource-methods-in-nlp-(oral)": {
+        "session-2_-efficient-low-resource-methods-in-nlp-(oral)": {
             "chairs": [],
             "end_time": "2024-03-18T11:15:00+01:00",
-            "id": "session-2_-efficient/low-resource-methods-in-nlp-(oral)",
+            "id": "session-2_-efficient-low-resource-methods-in-nlp-(oral)",
             "link": null,
             "paper_ids": [
                 "317-Oral"
@@ -650,7 +650,7 @@
             "room": "Carlson (176)",
             "session": "Session 2",
             "start_time": "2024-03-18T11:00:00+01:00",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "type": "Oral"
         },
         "session-2_-interpretability-and-model-analysis-in-nlp-(oral)": {
@@ -776,10 +776,10 @@
             "track": "Discourse and Pragmatics",
             "type": "Oral"
         },
-        "session-3_-efficient/low-resource-methods-in-nlp-(oral)": {
+        "session-3_-efficient-low-resource-methods-in-nlp-(oral)": {
             "chairs": [],
             "end_time": "2024-03-18T15:30:00+01:00",
-            "id": "session-3_-efficient/low-resource-methods-in-nlp-(oral)",
+            "id": "session-3_-efficient-low-resource-methods-in-nlp-(oral)",
             "link": null,
             "paper_ids": [
                 "71-Oral",
@@ -792,7 +792,7 @@
             "room": "Carlson (176)",
             "session": "Session 3",
             "start_time": "2024-03-18T14:00:00+01:00",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "type": "Oral"
         },
         "session-3_-generation-(poster)": {
@@ -1005,10 +1005,10 @@
             "track": "Discourse and Pragmatics",
             "type": "Oral"
         },
-        "session-4_-efficient/low-resource-methods-in-nlp-(poster)": {
+        "session-4_-efficient-low-resource-methods-in-nlp-(poster)": {
             "chairs": [],
             "end_time": "2024-03-18T17:30:00+01:00",
-            "id": "session-4_-efficient/low-resource-methods-in-nlp-(poster)",
+            "id": "session-4_-efficient-low-resource-methods-in-nlp-(poster)",
             "link": null,
             "paper_ids": [
                 "260",
@@ -1022,7 +1022,7 @@
             "room": "Radisson",
             "session": "Session 4",
             "start_time": "2024-03-18T16:00:00+01:00",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "type": "Poster"
         },
         "session-4_-information-extraction-(oral)": {
@@ -1414,10 +1414,10 @@
             "track": "Demo",
             "type": "Poster"
         },
-        "session-8_-efficient/low-resource-methods-in-nlp-(oral)": {
+        "session-8_-efficient-low-resource-methods-in-nlp-(oral)": {
             "chairs": [],
             "end_time": "2024-03-19T16:15:00+01:00",
-            "id": "session-8_-efficient/low-resource-methods-in-nlp-(oral)",
+            "id": "session-8_-efficient-low-resource-methods-in-nlp-(oral)",
             "link": null,
             "paper_ids": [
                 "176-Oral"
@@ -1425,7 +1425,7 @@
             "room": "Marie Louise 2  (90)",
             "session": "Session 8",
             "start_time": "2024-03-19T16:00:00+01:00",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "type": "Oral"
         },
         "session-8_-ethics-and-nlp-(poster)": {
@@ -2821,9 +2821,9 @@
             ],
             "category": "Oral",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-3_-efficient/low-resource-methods-in-nlp-(oral)"
+                "session-3_-efficient-low-resource-methods-in-nlp-(oral)"
             ],
             "id": "130-Oral",
             "is_paper": true,
@@ -2839,7 +2839,7 @@
             "slides_pdf": null,
             "title": "Quality Does Matter: A Detailed Look at the Quality and Utility of Web-Mined Parallel Corpora",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -3298,9 +3298,9 @@
             ],
             "category": "Oral",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-3_-efficient/low-resource-methods-in-nlp-(oral)"
+                "session-3_-efficient-low-resource-methods-in-nlp-(oral)"
             ],
             "id": "148-Oral",
             "is_paper": true,
@@ -3316,7 +3316,7 @@
             "slides_pdf": null,
             "title": "LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -4323,9 +4323,9 @@
             ],
             "category": "Oral",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-8_-efficient/low-resource-methods-in-nlp-(oral)"
+                "session-8_-efficient-low-resource-methods-in-nlp-(oral)"
             ],
             "id": "176-Oral",
             "is_paper": true,
@@ -4341,7 +4341,7 @@
             "slides_pdf": null,
             "title": "LOCOST: State-Space Models for Long Document Abstractive Summarization",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -5098,9 +5098,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-11_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-11_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "200",
             "is_paper": true,
@@ -5116,7 +5116,7 @@
             "slides_pdf": null,
             "title": "VlogQA: Task, Dataset, and Baseline Models for Vietnamese Spoken-Based Machine Reading Comprehension",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -5347,9 +5347,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-11_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-11_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "208",
             "is_paper": true,
@@ -5365,7 +5365,7 @@
             "slides_pdf": null,
             "title": "ViLexNorm: A Lexical Normalization Corpus for Vietnamese Social Media Text",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -5483,9 +5483,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-4_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-4_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "214",
             "is_paper": true,
@@ -5501,7 +5501,7 @@
             "slides_pdf": null,
             "title": "Who Needs Decoders? Efficient Estimation of Sequence-Level Attributes with Proxies",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -5851,9 +5851,9 @@
             ],
             "category": "Oral",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-3_-efficient/low-resource-methods-in-nlp-(oral)"
+                "session-3_-efficient-low-resource-methods-in-nlp-(oral)"
             ],
             "id": "222-Oral",
             "is_paper": true,
@@ -5869,7 +5869,7 @@
             "slides_pdf": null,
             "title": "Anchor Points: Benchmarking Models with Much Fewer Examples",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -6929,9 +6929,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-4_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-4_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "260",
             "is_paper": true,
@@ -6947,7 +6947,7 @@
             "slides_pdf": null,
             "title": "Aligning Large and Small Language Models via Chain-of-Thought Reasoning",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -6961,9 +6961,9 @@
             ],
             "category": "Oral",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-3_-efficient/low-resource-methods-in-nlp-(oral)"
+                "session-3_-efficient-low-resource-methods-in-nlp-(oral)"
             ],
             "id": "260-Oral",
             "is_paper": true,
@@ -6979,7 +6979,7 @@
             "slides_pdf": null,
             "title": "Aligning Large and Small Language Models via Chain-of-Thought Reasoning",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -7095,9 +7095,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-4_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-4_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "264",
             "is_paper": true,
@@ -7113,7 +7113,7 @@
             "slides_pdf": null,
             "title": "What the Weight?! A Unified Framework for Zero-Shot Knowledge Composition",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -7363,9 +7363,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-4_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-4_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "274",
             "is_paper": true,
@@ -7381,7 +7381,7 @@
             "slides_pdf": null,
             "title": "Clustering-based Sampling for Few-Shot Cross-Domain Keyphrase Extraction",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -7976,9 +7976,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "business-meeting_-efficient/low-resource-methods-in-nlp-(poster)"
+                "business-meeting_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "296",
             "is_paper": true,
@@ -7994,7 +7994,7 @@
             "slides_pdf": null,
             "title": "Minimal Distillation Schedule for Extreme Language Model Compression",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -8589,9 +8589,9 @@
             ],
             "category": "Oral",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-2_-efficient/low-resource-methods-in-nlp-(oral)"
+                "session-2_-efficient-low-resource-methods-in-nlp-(oral)"
             ],
             "id": "317-Oral",
             "is_paper": true,
@@ -8607,7 +8607,7 @@
             "slides_pdf": null,
             "title": "Extreme Fine-tuning: A Novel and Fast Fine-tuning Approach for Text Classification",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -9142,9 +9142,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-11_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-11_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "331",
             "is_paper": true,
@@ -9160,7 +9160,7 @@
             "slides_pdf": null,
             "title": "Zero-Shot End-to-End Spoken Language Understanding via Cross-Modal Selective Self-Training",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -9252,9 +9252,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-4_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-4_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "334",
             "is_paper": true,
@@ -9270,7 +9270,7 @@
             "slides_pdf": null,
             "title": "Predicting Machine Translation Performance on Low-Resource Languages: The Role of Domain Similarity",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -10045,9 +10045,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-11_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-11_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "36",
             "is_paper": true,
@@ -10063,7 +10063,7 @@
             "slides_pdf": null,
             "title": "Zero-shot Sentiment Analysis in Low-Resource Languages Using a Multilingual Sentiment Lexicon",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -11851,9 +11851,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-4_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-4_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "439",
             "is_paper": true,
@@ -11869,7 +11869,7 @@
             "slides_pdf": null,
             "title": "Unraveling the Dynamics of Semi-Supervised Hate Speech Detection: The Impact of Unlabeled Data Characteristics and Pseudo-Labeling Strategies",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -12341,9 +12341,9 @@
             ],
             "category": "Poster",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-4_-efficient/low-resource-methods-in-nlp-(poster)"
+                "session-4_-efficient-low-resource-methods-in-nlp-(poster)"
             ],
             "id": "454",
             "is_paper": true,
@@ -12359,7 +12359,7 @@
             "slides_pdf": null,
             "title": "Sorted LLaMA: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -13797,9 +13797,9 @@
             ],
             "category": "Oral",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-3_-efficient/low-resource-methods-in-nlp-(oral)"
+                "session-3_-efficient-low-resource-methods-in-nlp-(oral)"
             ],
             "id": "71-Oral",
             "is_paper": true,
@@ -13815,7 +13815,7 @@
             "slides_pdf": null,
             "title": "Finding a Needle in the Adversarial Haystack: A Targeted Paraphrasing Approach For Uncovering Edge Cases with Minimal Distribution Distortion",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -13831,9 +13831,9 @@
             ],
             "category": "Oral",
             "demo_url": null,
-            "display_track": "Efficient/Low-resource methods in NLP",
+            "display_track": "Efficient Low-resource methods in NLP",
             "event_ids": [
-                "session-3_-efficient/low-resource-methods-in-nlp-(oral)"
+                "session-3_-efficient-low-resource-methods-in-nlp-(oral)"
             ],
             "id": "73-Oral",
             "is_paper": true,
@@ -13849,7 +13849,7 @@
             "slides_pdf": null,
             "title": "FAIR: Filtering of Automatically Induced Rules",
             "tldr": "",
-            "track": "Efficient/Low-resource methods in NLP",
+            "track": "Efficient Low-resource methods in NLP",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -16769,10 +16769,10 @@
                     "track": "Dialogue and Interactive Systems",
                     "type": "Poster"
                 },
-                "business-meeting_-efficient/low-resource-methods-in-nlp-(poster)": {
+                "business-meeting_-efficient-low-resource-methods-in-nlp-(poster)": {
                     "chairs": [],
                     "end_time": "2024-03-19T13:45:00+01:00",
-                    "id": "business-meeting_-efficient/low-resource-methods-in-nlp-(poster)",
+                    "id": "business-meeting_-efficient-low-resource-methods-in-nlp-(poster)",
                     "link": null,
                     "paper_ids": [
                         "296"
@@ -16780,7 +16780,7 @@
                     "room": "Radisson",
                     "session": "Business Meeting",
                     "start_time": "2024-03-19T13:00:00+01:00",
-                    "track": "Efficient/Low-resource methods in NLP",
+                    "track": "Efficient Low-resource methods in NLP",
                     "type": "Poster"
                 },
                 "business-meeting_-ethics-and-nlp-(poster)": {
@@ -18421,10 +18421,10 @@
                     "track": "Demo",
                     "type": "Poster"
                 },
-                "session-11_-efficient/low-resource-methods-in-nlp-(poster)": {
+                "session-11_-efficient-low-resource-methods-in-nlp-(poster)": {
                     "chairs": [],
                     "end_time": "2024-03-20T14:45:00+01:00",
-                    "id": "session-11_-efficient/low-resource-methods-in-nlp-(poster)",
+                    "id": "session-11_-efficient-low-resource-methods-in-nlp-(poster)",
                     "link": null,
                     "paper_ids": [
                         "36",
@@ -18435,7 +18435,7 @@
                     "room": "GatherTown",
                     "session": "Session 11",
                     "start_time": "2024-03-20T14:00:00+01:00",
-                    "track": "Efficient/Low-resource methods in NLP",
+                    "track": "Efficient Low-resource methods in NLP",
                     "type": "Poster"
                 },
                 "session-11_-generation-(poster)": {
@@ -18643,10 +18643,10 @@
                     "track": "Dialogue and Interactive Systems",
                     "type": "Oral"
                 },
-                "session-2_-efficient/low-resource-methods-in-nlp-(oral)": {
+                "session-2_-efficient-low-resource-methods-in-nlp-(oral)": {
                     "chairs": [],
                     "end_time": "2024-03-18T11:15:00+01:00",
-                    "id": "session-2_-efficient/low-resource-methods-in-nlp-(oral)",
+                    "id": "session-2_-efficient-low-resource-methods-in-nlp-(oral)",
                     "link": null,
                     "paper_ids": [
                         "317-Oral"
@@ -18654,7 +18654,7 @@
                     "room": "Carlson (176)",
                     "session": "Session 2",
                     "start_time": "2024-03-18T11:00:00+01:00",
-                    "track": "Efficient/Low-resource methods in NLP",
+                    "track": "Efficient Low-resource methods in NLP",
                     "type": "Oral"
                 },
                 "session-2_-interpretability-and-model-analysis-in-nlp-(oral)": {
@@ -18793,10 +18793,10 @@
                     "track": "Discourse and Pragmatics",
                     "type": "Oral"
                 },
-                "session-3_-efficient/low-resource-methods-in-nlp-(oral)": {
+                "session-3_-efficient-low-resource-methods-in-nlp-(oral)": {
                     "chairs": [],
                     "end_time": "2024-03-18T15:30:00+01:00",
-                    "id": "session-3_-efficient/low-resource-methods-in-nlp-(oral)",
+                    "id": "session-3_-efficient-low-resource-methods-in-nlp-(oral)",
                     "link": null,
                     "paper_ids": [
                         "71-Oral",
@@ -18809,7 +18809,7 @@
                     "room": "Carlson (176)",
                     "session": "Session 3",
                     "start_time": "2024-03-18T14:00:00+01:00",
-                    "track": "Efficient/Low-resource methods in NLP",
+                    "track": "Efficient Low-resource methods in NLP",
                     "type": "Oral"
                 },
                 "session-3_-generation-(poster)": {
@@ -19035,10 +19035,10 @@
                     "track": "Discourse and Pragmatics",
                     "type": "Oral"
                 },
-                "session-4_-efficient/low-resource-methods-in-nlp-(poster)": {
+                "session-4_-efficient-low-resource-methods-in-nlp-(poster)": {
                     "chairs": [],
                     "end_time": "2024-03-18T17:30:00+01:00",
-                    "id": "session-4_-efficient/low-resource-methods-in-nlp-(poster)",
+                    "id": "session-4_-efficient-low-resource-methods-in-nlp-(poster)",
                     "link": null,
                     "paper_ids": [
                         "260",
@@ -19052,7 +19052,7 @@
                     "room": "Radisson",
                     "session": "Session 4",
                     "start_time": "2024-03-18T16:00:00+01:00",
-                    "track": "Efficient/Low-resource methods in NLP",
+                    "track": "Efficient Low-resource methods in NLP",
                     "type": "Poster"
                 },
                 "session-4_-information-extraction-(oral)": {
@@ -19483,10 +19483,10 @@
                     "track": "Demo",
                     "type": "Poster"
                 },
-                "session-8_-efficient/low-resource-methods-in-nlp-(oral)": {
+                "session-8_-efficient-low-resource-methods-in-nlp-(oral)": {
                     "chairs": [],
                     "end_time": "2024-03-19T16:15:00+01:00",
-                    "id": "session-8_-efficient/low-resource-methods-in-nlp-(oral)",
+                    "id": "session-8_-efficient-low-resource-methods-in-nlp-(oral)",
                     "link": null,
                     "paper_ids": [
                         "176-Oral"
@@ -19494,7 +19494,7 @@
                     "room": "Marie Louise 2  (90)",
                     "session": "Session 8",
                     "start_time": "2024-03-19T16:00:00+01:00",
-                    "track": "Efficient/Low-resource methods in NLP",
+                    "track": "Efficient Low-resource methods in NLP",
                     "type": "Oral"
                 },
                 "session-8_-ethics-and-nlp-(poster)": {
