@@ -20081,6 +20081,31 @@
             "type": "Socials",
             "workshop_events": {}
         },
+        "Birds of a Feather 1": {
+            "display_name": "NLP in Healthcare (Especially Mental Health)",
+            "end_time": "2024-03-19T12:00:00+01:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2024-03-19T12:00:00+01:00",
+                    "id": "BoF-1",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": NaN,
+                    "session": "event_session",
+                    "start_time": "2024-03-19T10:30:00+01:00",
+                    "track": "Birds of a Feather 1",
+                    "type": "Socials"
+                }
+            },
+            "id": "BoF-1",
+            "name": "NLP in Healthcare (Especially Mental Health)",
+            "plenary_events": {},
+            "start_time": "2024-03-19T10:30:00+01:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
         "Coffee Break 1": {
             "display_name": "Coffee Break 1",
             "end_time": "2024-03-18T11:00:00+01:00",

@@ -230,6 +230,9 @@ def prepare_affinity_data(data_file):
         [s2d("2024-03-20"), "11:00:00", "12:30:00", "11:00 - 12:30", "",
          "Affinity Group Meeting 3", "AGM-3", "Latin X in AI", "", ""
          ],
+        [s2d("2024-03-19"), "10:30:00", "12:00:00", "10:30 - 12:00", "",
+         "Birds of a Feather 1", "BoF-1", "NLP in Healthcare (Especially Mental Health)", "", ""
+         ],
     ]
     column_names = ['Date', 'Start Time', 'End Time', 'Time', 'Room', 'Track', 'Session ID', 'Session Title', "Session Chairs", "Url"]
     sheet_name = "Affinity Groups & BoF"

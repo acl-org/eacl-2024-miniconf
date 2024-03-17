@@ -164,6 +164,9 @@ def generate_paper_events_v1(site_data: SiteData) -> List[Dict[str, Any]]:
             )
             event_key = ""
             event_key = "{}+{}+{}+{}".format(day_view_name, event.track, str(event.start_time).split()[0], room)
+            event_key = "{}+{}+{}+{}".format(day_view_name, event.track, str(event.start_time), room)
+            # if "demo" in event_key.lower():
+            #     print(event_key, "-----")
             if existing_events[event_key] == 0:
                 # if "Poster: Industry" in day_view_name:
                     # print("---")

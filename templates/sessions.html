@@ -47,11 +47,11 @@
                     <div class="row col-12">
                         <div class="col-12">⏰ Time: {{ session.conference_datetime }} <span
                                 class="badge badge-primary">Conference</span></div>
-                        <div class="col-12">
-                            ⏰ Time: <span class="session_times">{{session.session}} {{session.time_string}}</span>
-                            <span class="badge badge-secondary">UTC</span> /
-                            <span class="badge badge-info">Browser</span>
-                        </div>
+<!--                        <div class="col-12">-->
+<!--                            ⏰ Time: <span class="session_times">{{session.session}} {{session.time_string}}</span>-->
+<!--                            <span class="badge badge-secondary">UTC</span> /-->
+<!--                            <span class="badge badge-info">Browser</span>-->
+<!--                        </div>-->
                     </div>
                     {% for event_type in event_types %}
                     {% if session.events.values()|selectattr('type', 'equalto', event_type)|list|length > 0 %}
