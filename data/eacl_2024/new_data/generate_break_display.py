@@ -8,8 +8,8 @@ def generate_break_display_json():
     break_display = {}
     # 遍历每一行数据
     for _, row in df.iterrows():
-        start_time = row['Date'].strftime('%Y-%m-%dT') + row['Start Time'] # + "+01:00"
-        end_time = row['Date'].strftime('%Y-%m-%dT') + row['End Time'] # + "+01:00"
+        start_time = row['Date'].strftime('%Y-%m-%dT') + row['Start Time'] + "+01:00"
+        end_time = row['Date'].strftime('%Y-%m-%dT') + row['End Time'] + "+01:00"
         break_data = {
             'display_name': row['Session'],
             'end_time': end_time,

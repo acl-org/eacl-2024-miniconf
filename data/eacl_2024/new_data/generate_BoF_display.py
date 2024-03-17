@@ -8,8 +8,8 @@ def generate_bof_json():
     bof_display = {}
     # 遍历每一行数据
     for _, row in df.iterrows():
-        start_time = row['Date'].strftime('%Y-%m-%dT') + row['Start Time'] # + "+01:00"
-        end_time = row['Date'].strftime('%Y-%m-%dT') + row['End Time'] # + "+01:00"
+        start_time = row['Date'].strftime('%Y-%m-%dT') + row['Start Time'] + "+01:00"
+        end_time = row['Date'].strftime('%Y-%m-%dT') + row['End Time'] + "+01:00"
         bof_data = {
             'display_name': row['Session Title'],
             'end_time': end_time,

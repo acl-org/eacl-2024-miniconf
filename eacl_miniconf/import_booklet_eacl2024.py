@@ -194,11 +194,11 @@ def generate_workshops(
         booklet_id = workshop_dict["id"]
         workshop_id = WS_ID_TO_SHORT[booklet_id]
         start_time = parse_conference_time(workshop_dict["start_time"])
-        end_time = parse_conference_time(
-            workshop_dict["start_time"]
-        ) + datetime.timedelta(hours=8)
+        # end_time = parse_conference_time(
+        #     workshop_dict["start_time"]
+        # ) + datetime.timedelta(hours=8)
         end_time = parse_conference_time(workshop_dict["end_time"])
-        # print(start_time, end_time, "+++")
+        # print(start_time, end_time, workshop_dict["title"])
         workshop = Workshop(
             id=workshop_id,
             title=workshop_dict["title"],

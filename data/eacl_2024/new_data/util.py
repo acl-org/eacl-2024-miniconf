@@ -388,6 +388,7 @@ def convert_oral_csv(data_file):
     all_location, all_track, all_pres_order, all_session_title = [], [], [], []
     all_session_id, all_pid_old, all_pid, all_title = [], [], [], []
     all_author, all_length, all_cate, all_pref = [], [], [], []
+    all_abstract = []
     for index, row in df.iterrows():
         # print(row.keys())
         session = row['Session']
@@ -398,7 +399,7 @@ def convert_oral_csv(data_file):
         end_time = end_time.strftime('%H:%M')
         location = row['Room'].split("(")[0].strip()
         # track = row['Track'].replace("/", " ")
-        track = row['Session Name ']
+        track = row['Session Name '].replace("/", " ")
         presentation_order = row['Pres. Order']
         session_title = row['Session Name ']
         session_id_on_underline = ""
@@ -409,6 +410,7 @@ def convert_oral_csv(data_file):
         length = row['Length']
         category = row['Category']
         oral_pref = row['Presentation Preference']
+        abstract = row['Abstract']
         all_session.append(session.strip())
         all_date.append(date)
         all_start_time.append(start_time)
@@ -425,6 +427,7 @@ def convert_oral_csv(data_file):
         all_length.append(length)
         all_cate.append(category.strip())
         all_pref.append(oral_pref)
+        all_abstract.append(abstract)
 
     data = {
         'Session': all_session,
@@ -442,7 +445,8 @@ def convert_oral_csv(data_file):
         'Author': all_author,
         'Length': all_length,
         'Category': all_cate,
-        'Oral(pref)': all_pref
+        'Oral(pref)': all_pref,
+        'Abstract': all_abstract
     }
 
     df1 = pd.DataFrame(data)
@@ -600,8 +604,8 @@ def generate_plenary_json(data_file):
 
 if __name__ == "__main__":
     data_file = "EACL24-Events.xlsx"
-    # write_to_excel(data_file)
-    convert_oral_csv("eacl-oral-papers.tsv")
+    write_to_excel(data_file)
+    # convert_oral_csv("eacl-oral-papers.tsv")
     # convert_poster_csv("eacl-poster-papers.tsv")
     # generate_plenary_json("inputs.xlsx")
 

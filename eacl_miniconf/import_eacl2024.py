@@ -19,8 +19,9 @@ from collections import defaultdict
 from openpyxl import load_workbook
 
 import sys
-sys.path.append('/Users/liuwei/PycharmProjects/eacl2024-miniconf')
+# sys.path.append('/Users/liuwei/PycharmProjects/eacl2024-miniconf')
 sys.path.append('/hits/fast/nlp/liuwi/PycharmProjects/eacl2024-miniconf')
+sys.path.append('/Users/liuwei/Documents/eacl-2024-miniconf')
 
 from eacl_miniconf.data import (
     PLENARIES,
@@ -243,7 +244,7 @@ class Eacl2023Parser:
         self.socials_json_path = socials_json_path
         self.keywords_csv_path = keywords_csv_path
         self.eacl_anthology_prefix = eacl_anthology_prefix
-        self.booklet: Booklet = Booklet.from_booklet_data(
+        self.booklet = Booklet.from_booklet_data(
             booklet_json_path, workshops_yaml_path
         )
         self.anthology_data: Dict[str, AnthologyEntry] = {}
@@ -374,6 +375,7 @@ class Eacl2023Parser:
 
     def _parse_workshop_papers(self):
         logging.info("Parsing workshop papers")
+        print("++++++++++ in")
         with open(self.workshop_papers_yaml_path) as f:
             papers = yaml.safe_load(f)
         workshop_papers: List[Paper] = []
@@ -1004,7 +1006,9 @@ class Eacl2023Parser:
                         else:
                             anthology_url, paper_pdf = self.get_anthology_urls(paper_type, row.Length, anthology_publication_id)
                     else:
-                        abstract = ""
+                        # abstract = ""
+                        # print(row.Abstract)
+                        abstract = row.Abstract
                         tldr = ""
                         anthology_url = None
                         paper_pdf = None
@@ -1028,7 +1032,7 @@ class Eacl2023Parser:
                         display_track=group_track,
                         paper_type=paper_type,
                         category=row.Category,
-                        abstract=abstract,
+                        abstract=row.Abstract,
                         keywords=keywords,
                         languages=languages,
                         tldr=tldr,

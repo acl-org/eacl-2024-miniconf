@@ -366,8 +366,8 @@
             "id": "welcome-reception",
             "day": "Sunday, March 17, 2024",
             "venue": "",
-            "start_time": "2024-03-17 18:00:00",
-            "end_time": "2024-03-17 20:30:00",
+            "start_time": "2024-03-17T18:00:00+01:00",
+            "end_time": "2024-03-17T20:30:00+01:00",
             "desc": "",
             "location": "Radisson Blu"
         },
@@ -376,8 +376,8 @@
             "id": "social-event-dinner-entertainment",
             "day": "Tuesday, March 19, 2024",
             "venue": "",
-            "start_time": "2024-03-19 17:00:00",
-            "end_time": "2024-03-19 22:00:00",
+            "start_time": "2024-03-19T17:00:00+01:00",
+            "end_time": "2024-03-19T22:00:00+01:00",
             "desc": "Dinner & Entertainment",
             "location": "Corinthia Hotel Rooms"
         }

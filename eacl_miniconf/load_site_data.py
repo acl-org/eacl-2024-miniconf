@@ -137,9 +137,9 @@ def generate_paper_events_v1(site_data: SiteData) -> List[Dict[str, Any]]:
                 if "Birds of a Feather" in event.track:
                     day_view_name = "BoF {}: {}".format(event.id.split("-")[1], session.name)
                 elif "Affinity Group Meeting" in event.track:
-                    day_view_name = "Affinity Group Meeting {}: {}".format(event.id.split("-")[1], session.name)
+                    day_view_name = "Social Meeting {}: {}".format(event.id.split("-")[1], session.name)
                 elif "Dinner" in event.track:
-                    day_view_name = "Dinner"
+                    day_view_name = "Social Event Dinner & Entertainment"
                 elif "Welcome":
                     day_view_name = "Welcome reception"
             elif event.type.lower() == "breaks":
