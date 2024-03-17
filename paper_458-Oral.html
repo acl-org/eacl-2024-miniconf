@@ -77,7 +77,7 @@
 <meta name="citation_publication_date" content="March 2024" />
 <meta name="citation_conference_title" content="The 18th Conference Of The European Chapter Of The Association For Computational Linguistics" />
 <meta name="citation_inbook_title" content="The 18th Conference of the European Chapter of the Association for Computational Linguistics" />
-<meta name="citation_abstract" content="" />
+<meta name="citation_abstract" content="Red teaming is a common strategy for identifying weaknesses in generative language models (LMs) by producing adversarial prompts that trigger models to generate unsafe responses. Red teaming is instrumental for both model alignment and evaluation, but is labor-intensive and difficult to scale when done by humans. In this paper, we present Gradient-Based Red Teaming (GBRT), a novel red teaming method for automatically generating diverse prompts that are likely to cause an LM to output unsafe responses. GBRT is a form of prompt learning, trained by scoring an LM response with a safety classifier and then backpropagating through the frozen safety classifier and LM to update the prompt. To improve the coherence of input prompts, we introduce two variants that add a realism loss and fine-tune a pretrained model to generate the prompts instead of learning the prompts directly. Our experiments show that GBRT is more effective at finding prompts that trigger an LM to generate unsafe responses than a strong reinforcement learning-based red teaming approach and works even when the LM has been fine-tuned to produce safer outputs." />
 
 <meta name="citation_pdf_url" content="" />
 
@@ -422,7 +422,7 @@
         <div class="card-text">
           <div id="abstractExample">
             <span class="font-weight-bold">Abstract:</span>
-            
+            Red teaming is a common strategy for identifying weaknesses in generative language models (LMs) by producing adversarial prompts that trigger models to generate unsafe responses. Red teaming is instrumental for both model alignment and evaluation, but is labor-intensive and difficult to scale when done by humans. In this paper, we present Gradient-Based Red Teaming (GBRT), a novel red teaming method for automatically generating diverse prompts that are likely to cause an LM to output unsafe responses. GBRT is a form of prompt learning, trained by scoring an LM response with a safety classifier and then backpropagating through the frozen safety classifier and LM to update the prompt. To improve the coherence of input prompts, we introduce two variants that add a realism loss and fine-tune a pretrained model to generate the prompts instead of learning the prompts directly. Our experiments show that GBRT is more effective at finding prompts that trigger an LM to generate unsafe responses than a strong reinforcement learning-based red teaming approach and works even when the LM has been fine-tuned to produce safer outputs.
           </div>
         </div>
       </div>

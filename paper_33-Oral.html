@@ -77,7 +77,7 @@
 <meta name="citation_publication_date" content="March 2024" />
 <meta name="citation_conference_title" content="The 18th Conference Of The European Chapter Of The Association For Computational Linguistics" />
 <meta name="citation_inbook_title" content="The 18th Conference of the European Chapter of the Association for Computational Linguistics" />
-<meta name="citation_abstract" content="" />
+<meta name="citation_abstract" content="Hallucinations and off-target translation remain unsolved problems in MT, especially for low-resource languages and massively multilingual models. In this paper, we introduce two related methods to mitigate these failure cases with a modified decoding objective, without either requiring retraining or external models. In source-contrastive decoding, we search for a translation that is probable given the correct input, but improbable given a random input segment. In language-contrastive decoding, we search for a translation that is probable, but improbable given the wrong language indicator token. Experiments on the massively multilingual models M2M-100 (418M) and SMaLL-100 show that these methods suppress hallucinations and off-target translations, reducing the number of translations with segment-level chrF2 below 10 by 67-83% on average across 57 tested translation directions. In a proof of concept on out-of-English translation, we also show that we can suppress off-target translations with large language models. We release code upon acceptance." />
 
 <meta name="citation_pdf_url" content="" />
 
@@ -422,7 +422,7 @@
         <div class="card-text">
           <div id="abstractExample">
             <span class="font-weight-bold">Abstract:</span>
-            
+            Hallucinations and off-target translation remain unsolved problems in MT, especially for low-resource languages and massively multilingual models. In this paper, we introduce two related methods to mitigate these failure cases with a modified decoding objective, without either requiring retraining or external models. In source-contrastive decoding, we search for a translation that is probable given the correct input, but improbable given a random input segment. In language-contrastive decoding, we search for a translation that is probable, but improbable given the wrong language indicator token. Experiments on the massively multilingual models M2M-100 (418M) and SMaLL-100 show that these methods suppress hallucinations and off-target translations, reducing the number of translations with segment-level chrF2 below 10 by 67-83% on average across 57 tested translation directions. In a proof of concept on out-of-English translation, we also show that we can suppress off-target translations with large language models. We release code upon acceptance.
           </div>
         </div>
       </div>
