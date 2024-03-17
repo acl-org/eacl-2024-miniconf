@@ -162,7 +162,6 @@ def paper(uid):
     data["paper_recs"] = [by_uid.papers[i] for i in v.similar_paper_ids[1:]]
     # TODO: Fix
     data["zone"] = site_data.local_timezone
-
     return render_template("paper.html", **data)
 
 
