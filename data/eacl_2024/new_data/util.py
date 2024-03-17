@@ -283,7 +283,7 @@ def prepare_oral_data(data_file):
         # date, Time, Paper ID, Title, Authors, Session name, Presentation Mode
         date = row['Date']
         time = row['Time CET (Local Time)']
-        room = row['Room']
+        room = row['Room'].split("(")[0].strip()
         paper_id = row['Paper ID']
         title = row['Paper Title']
         authors = row['Author']
@@ -396,8 +396,9 @@ def convert_oral_csv(data_file):
         t_start_time = datetime.datetime.strptime(start_time, '%H:%M')
         end_time = (t_start_time + datetime.timedelta(minutes=15)).time()
         end_time = end_time.strftime('%H:%M')
-        location = row['Room']
-        track = row['Track'].replace("/", " ")
+        location = row['Room'].split("(")[0].strip()
+        # track = row['Track'].replace("/", " ")
+        track = row['Session Name ']
         presentation_order = row['Pres. Order']
         session_title = row['Session Name ']
         session_id_on_underline = ""

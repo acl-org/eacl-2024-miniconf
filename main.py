@@ -252,6 +252,7 @@ def send_static(path):
 
 @app.route("/serve_<path>.json")
 def serve(path):
+    print(type(site_data), path, "+++")
     return jsonify(site_data[path])
 
 
